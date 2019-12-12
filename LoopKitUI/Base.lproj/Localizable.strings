@@ -2,7 +2,7 @@
 "Absorption Time" = "Absorption Time";
 
 /* The title of the button to add the credentials for a service */
-"Add Account" = "Добавить пользователя";
+"Add Account" = "Add Account";
 
 /* Action sheet confirmation message for pump history deletion */
 "Are you sure you want to delete all history entries?" = "Are you sure you want to delete all history entries?";
