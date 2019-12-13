@@ -745,6 +745,17 @@
 		1F5DAB802118F3FC00048054 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1FE58790211CFBB7004F24ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		1FE58794211D0967004F24ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		28C7E37423A37BEB008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		28C7E37523A37BEB008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/Main.strings"; sourceTree = "<group>"; };
+		28C7E37623A37BEB008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/CarbKit.strings"; sourceTree = "<group>"; };
+		28C7E37723A37BEC008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/InsulinKit.strings"; sourceTree = "<group>"; };
+		28C7E37823A37BEC008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		28C7E37923A37BEC008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		28C7E37A23A37BEC008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		28C7E37B23A37BEC008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		28C7E37C23A37BEC008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		28C7E37D23A37BEC008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		28C7E37E23A37BEC008192CB /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		2FD1A6AF1E4A76CC0042EF39 /* CarbEntryValidationNavigationDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarbEntryValidationNavigationDelegate.swift; sourceTree = "<group>"; };
 		430157F71C7EC03B00B64B63 /* LoopKit Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LoopKit Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		430157F91C7EC03B00B64B63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -2173,6 +2184,7 @@
 				nb,
 				pl,
 				ru,
+				"sv-SE",
 			);
 			mainGroup = 43D8FDC11C728FDF0073BE78;
 			productRefGroup = 43D8FDCC1C728FDF0073BE78 /* Products */;
@@ -2901,6 +2913,7 @@
 				1F5DAB722118F3C300048054 /* nl */,
 				1F5DAB7E2118F3FC00048054 /* nb */,
 				1F50C328212B20D400C18FAB /* pl */,
+				28C7E37C23A37BEC008192CB /* sv-SE */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -2917,6 +2930,7 @@
 				1F5DAB742118F3C300048054 /* nl */,
 				1F5DAB802118F3FC00048054 /* nb */,
 				1F50C32A212B20D400C18FAB /* pl */,
+				28C7E37D23A37BEC008192CB /* sv-SE */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -2935,6 +2949,7 @@
 				1F5DAB7A2118F3FB00048054 /* nb */,
 				1FE58794211D0967004F24ED /* Base */,
 				1F50C324212B20D300C18FAB /* pl */,
+				28C7E37923A37BEC008192CB /* sv-SE */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -2952,6 +2967,7 @@
 				1F5DAB6A2118F3C200048054 /* nl */,
 				1F5DAB762118F3FB00048054 /* nb */,
 				1F50C320212B20D300C18FAB /* pl */,
+				28C7E37523A37BEB008192CB /* sv-SE */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -2969,6 +2985,7 @@
 				1F5DAB692118F3C200048054 /* nl */,
 				1F5DAB752118F3FB00048054 /* nb */,
 				1F50C31F212B20D300C18FAB /* pl */,
+				28C7E37423A37BEB008192CB /* sv-SE */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -2986,6 +3003,7 @@
 				1F5DAB6B2118F3C200048054 /* nl */,
 				1F5DAB772118F3FB00048054 /* nb */,
 				1F50C321212B20D300C18FAB /* pl */,
+				28C7E37623A37BEB008192CB /* sv-SE */,
 			);
 			name = CarbKit.storyboard;
 			sourceTree = "<group>";
@@ -3003,6 +3021,7 @@
 				1F5DAB6C2118F3C200048054 /* nl */,
 				1F5DAB782118F3FB00048054 /* nb */,
 				1F50C322212B20D300C18FAB /* pl */,
+				28C7E37723A37BEC008192CB /* sv-SE */,
 			);
 			name = InsulinKit.storyboard;
 			sourceTree = "<group>";
@@ -3020,6 +3039,7 @@
 				1F5DAB702118F3C200048054 /* nl */,
 				1F5DAB7C2118F3FC00048054 /* nb */,
 				1F50C326212B20D400C18FAB /* pl */,
+				28C7E37B23A37BEC008192CB /* sv-SE */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -3036,6 +3056,7 @@
 				1F5DAB6F2118F3C200048054 /* nl */,
 				1F5DAB7B2118F3FB00048054 /* nb */,
 				1F50C325212B20D400C18FAB /* pl */,
+				28C7E37A23A37BEC008192CB /* sv-SE */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -3052,6 +3073,7 @@
 				1F5DAB6D2118F3C200048054 /* nl */,
 				1F5DAB792118F3FB00048054 /* nb */,
 				1F50C323212B20D300C18FAB /* pl */,
+				28C7E37823A37BEC008192CB /* sv-SE */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -3069,6 +3091,7 @@
 				1F5DAB7F2118F3FC00048054 /* nb */,
 				1FE58790211CFBB7004F24ED /* Base */,
 				1F50C329212B20D400C18FAB /* pl */,
+				28C7E37E23A37BEC008192CB /* sv-SE */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -3084,7 +3107,7 @@
 				CODE_SIGN_ENTITLEMENTS = "LoopKit Example/LoopKitExample.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				INFOPLIST_FILE = "LoopKit Example/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rileylink.LoopKitExample;
@@ -3101,7 +3124,7 @@
 				CODE_SIGN_ENTITLEMENTS = "LoopKit Example/LoopKitExample.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				INFOPLIST_FILE = "LoopKit Example/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rileylink.LoopKitExample;
@@ -3119,10 +3142,11 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 41;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 41;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -3146,10 +3170,11 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 41;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 41;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -3292,11 +3317,11 @@
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 41;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -3317,11 +3342,11 @@
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 41;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -3340,7 +3365,7 @@
 		43D8FDE31C728FDF0073BE78 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				INFOPLIST_FILE = LoopKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.loopkit.LoopKitTests;
@@ -3351,7 +3376,7 @@
 		43D8FDE41C728FDF0073BE78 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				INFOPLIST_FILE = LoopKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.loopkit.LoopKitTests;
@@ -3363,7 +3388,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -3389,10 +3416,11 @@
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -3410,7 +3438,9 @@
 		89AE221B228BC50900BDFD85 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = MockKit/Info.plist;
@@ -3427,8 +3457,10 @@
 		89AE221C228BC50900BDFD85 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = MockKit/Info.plist;
@@ -3445,7 +3477,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = MockKitUI/Info.plist;
@@ -3463,8 +3497,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = MockKitUI/Info.plist;
@@ -3482,10 +3518,10 @@
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 41;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -3506,10 +3542,10 @@
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y9GQA54NN7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 41;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
